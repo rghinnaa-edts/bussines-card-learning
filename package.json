@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s01cu7a50d",
+  "description": "https://scrimba.com/s01cu7a50d/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
